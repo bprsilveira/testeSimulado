@@ -1,3 +1,7 @@
+Exercício de simulado para prova do segundo bimestre POO
+
+----------------------------
+
 Implemente as classes necessárias para que o teste abaixo, assumindo ausência de erros de sintaxe, exiba na tela os resultados: "É um livro", "É uma caneta" e "É um caderno".
 
 
